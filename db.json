@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "id": "0",
+      "name": "Cava",
+      "description": "Mediterranean restaurant for thoughtful food with customizable greens & grains bowls, pitas & salad.",
+      "cuisine": "Mediterranean",
+      "meals": [
+        {
+          "breakfast": "0",
+          "lunch": "1",
+          "dinner": "1"
+        }
+      ],
+      "location": "USC Village",
+      "address": "3201 S. Hoover Street Los Angeles, CA 90089",
+      "dist-from-usc": "0.2",
+      "rating": "4.5",
+      "favorite": "0",
+      "menu": "https://cava.com/menu",
+      "date-added": "12-5-2021",
+      "hours" : [
+        {
+          "monday": "10:45-7",
+          "tuesday": "10:45-7",
+          "wednesday": "10:45-7",
+          "thursday": "10:45-7",
+          "friday": "10:45-7",
+          "saturday": "10:45-7",
+          "sunday": "10:45-7"
+        }
+      ],
+      "authorId": "0"
+    },
+    {
+      "id": "1",
+      "name": "Chipotle",
+      "description": "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+      "cuisine": "Mexican",
+      "meals": [
+        {
+          "breakfast": "0",
+          "lunch": "1",
+          "dinner": "1"
+        }
+      ],
+      "location": "South of Campus",
+      "address": "3748 S Figueroa St Los Angeles, CA 90007",
+      "dist-from-usc": "0.2",
+      "rating": "4.1",
+      "favorite": "0",
+      "menu": "https://www.chipotle.com/order?utm_source=locationpage&utm_medium=yext&utm_campaign=order_online_hero",
+      "date-added": "12-5-2021",
+      "hours" : [
+        {
+          "monday": "10:30-7",
+          "tuesday": "10:30-7",
+          "wednesday": "10:30-7",
+          "thursday": "10:30-7",
+          "friday": "10:30-7",
+          "saturday": "10:30-7",
+          "sunday": "10:30-7"
+        }
+      ],
+      "authorId": "0"
+    }
+  ],
+  "authors": [
+    {
+      "id": "0",
+      "name": "Landon Smith"
+    }
+  ]
+}
